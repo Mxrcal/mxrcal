@@ -1,6 +1,6 @@
 # Marc Illescas | Founder & Software Architect @ Softwave.es
 
-**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad extrema y la implementación de soluciones inteligentes.
+**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad y la implementación de soluciones inteligentes.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 🚀 Proyectos Estratégicos
 
-Dado mi rol como Founder, los repositorios de producción son privados por seguridad y confidencialidad. **Ofrezco total disponibilidad para realizar una demostración técnica en directo** sobre la arquitectura, el código y las integraciones de los siguientes sistemas:
+Los repositorios de producción son privados por seguridad y confidencialidad. **Ofrezco total disponibilidad para realizar una demostración técnica en directo** sobre la arquitectura, el código y las integraciones de los siguientes sistemas:
 
 * **Binatics:** Diseño e implementación de la infraestructura digital para consultoría IT y ciberseguridad industrial. Enfoque en robustez y alta disponibilidad.
 * **Framed by Mario:** Sistema premium de gestión y booking fotográfico con una experiencia de usuario fluida y carga optimizada de activos de alta resolución.
