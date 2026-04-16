@@ -14,7 +14,7 @@
 ![Zod](https://img.shields.io/badge/Security_by_Zod-3068b7?style=for-the-badge)
 
 ### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxrcal&show_icons=true&theme=tokyonight)
 
 ---
 > "Engineering software that doesn't just work, but lasts."
