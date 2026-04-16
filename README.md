@@ -1,46 +1,47 @@
-# Marc Illescas | Founder & Software Architect @ Softwave.es
+# Hola, soy Marc Illescas 🌊
 
-**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad extrema y la implementación de soluciones inteligentes.
+Soy co-fundador de [Softwave.es](https://www.softwave.es). Me dedico a programar aplicaciones web que cargan rápido, no se rompen y son fáciles de mantener. Me gusta el código limpio, pero me gusta más que las soluciones funcionen y ayuden a los negocios a ir mejor.
 
 ---
 
-### 💻 Stack Técnico y Arquitectura
+### 💻 ¿Con qué tecnologías trabajo?
 
-| Ecosistema | Tecnologías | Conceptos Clave |
+No me gusta cerrarme a una sola herramienta, pero estas son las que más uso en el día a día para construir proyectos:
+
+| Área | Tecnologías | Lo que suelo hacer con ellas |
 | :--- | :--- | :--- |
-| **IA & Automatización** | Python, LangChain, OpenAI/Claude API | Sistemas Agénticos, Prompt Engineering, RAG |
-| **Backend & Datos** | Java, Node.js, FastAPI, SQL (Postgres) | Clean Architecture, SOLID, Diseño de APIs REST |
-| **Frontend & UX** | Next.js 15, TypeScript, Tailwind v4, React | Core Web Vitals, Performance (100/100), Framer Motion |
-| **Infraestructura & Ops** | Docker, Git, CI/CD, Vercel, Supabase | Contenerización, Type-Safe (Zod), Sentry Monitoring |
+| **IA & Automatización** | Python, LangChain, APIs de OpenAI/Claude | Automatizar tareas pesadas y conectar LLMs a datos reales. |
+| **Backend & Datos** | Java, Node.js, FastAPI, SQL (Postgres) | Crear APIs sólidas y diseñar bases de datos que tengan sentido. |
+| **Frontend & Web** | Next.js 15, TypeScript, Tailwind v4, React | Hacer que la web vuele (100/100 en Lighthouse) y se vea bien. |
+| **Infra & DevOps** | Docker, Git, CI/CD, Vercel, Supabase | Desplegar sin miedo y monitorizar que todo vaya como un reloj. |
 
 ---
 
-### 🧠 Pilares de Ingeniería en Softwave
+### 🏗️ Cosas en las que estoy trabajando ahora
 
-- **🏗️ Arquitectura de Software:** Implementación estricta de principios **SOLID** y **Clean Architecture**. Diseño sistemas modulares pensados para ser mantenibles y escalables a largo plazo.
-- **⚡ Optimización de Performance:** Especialista en **Core Web Vitals**. Optimizo el *Critical Rendering Path* para garantizar que cada milisegundo cuente en la conversión de negocio.
-- **🤖 Inteligencia Artificial Aplicada:** No solo integro modelos; diseño flujos de trabajo autónomos y automatizaciones que optimizan costes operativos y mejoran la UX.
-- **🐳 DevOps & Seguridad:** Uso **Docker** para asegurar la paridad de entornos y aplico protocolos de **Seguridad por Diseño** mediante validación estricta y tipado estricto.
+En **Softwave** tratamos cada proyecto como si fuera nuestro. Por privacidad no puedo enseñarte todo el código, pero estos son los retos que tengo ahora mismo en la mesa:
 
----
-
-### 🏗️ Portfolio de Ingeniería & Soluciones
-
-Aunque el desarrollo de ecosistemas empresariales se mantiene bajo entornos privados por seguridad, aquí se detallan los sistemas arquitectónicos que desarrollo:
-
-* **Framed by Mario | Video Post-Production:** Plataforma premium para edición y post-producción de vídeo. El reto técnico: gestión de activos de alta resolución (high-bitrate), optimización de carga y una UX cinemática con rendimiento 100/100 en Lighthouse.
-* **Softwave Engine:** Nuestro "Core" propietario. Una arquitectura modular basada en Next.js 15 que reduce los tiempos de desarrollo en un 40% manteniendo estándares de seguridad blindada.
-
-> *Nota técnica: Implementaciones realizadas bajo estándares de Clean Architecture y SOLID.*
+* **Framed by Mario:** Una plataforma para un editor de vídeo. El reto es que la web sea "cinemática" y maneje archivos pesados de alta resolución sin que la velocidad de carga se resienta.
+* **Binatics:** Estamos montando la infraestructura digital para una consultoría de ciberseguridad industrial. Aquí la prioridad absoluta es la seguridad y que el sistema sea robusto.
+* **Softwave Engine:** Es nuestra propia base de trabajo en Next.js. La hemos pulido para que cualquier proyecto que empecemos ya salga de serie con SEO, velocidad y seguridad a tope.
 
 ---
 
+### 🧠 Mi filosofía de trabajo (sin rodeos)
 
-### 📫 Contacto y Enlaces
-
-* **Web Corporativa:** [Softwave.es](https://www.softwave.es)
-* **LinkedIn:** [linkedin.com/in/marcaldev]
-* **Email:** [marc.illescas@softwave.es]
+- **Código para humanos:** Escribo código pensando en que otro programador (o yo mismo en 6 meses) pueda entenderlo sin volverse loco.
+- **Rendimiento real:** No me sirven las webs que "parecen" rápidas. Me obsesiono con los números de Google para que la experiencia sea fluida de verdad.
+- **Pragmatismo:** Uso IA para ser más rápido y Docker para que no haya sorpresas al subir a producción. Se trata de usar la tecnología para solucionar problemas, no para complicarlos.
 
 ---
-> "La excelencia técnica no es un acto, es un hábito. En Softwave, convertimos la complejidad en sistemas eficientes y elegantes."
+
+### 📫 ¿Hablamos?
+
+Si tienes un proyecto en mente, quieres hablar de arquitectura o simplemente comentar algún script, búscame por aquí:
+
+* **Mi agencia:** [Softwave.es](https://www.softwave.es)
+* **LinkedIn:** [linkedin.com/in/marcaldev](https://www.linkedin.com/in/marcaldev)
+* **Email:** [marc.illescas@softwave.es](mailto:marc.illescas@softwave.es)
+
+---
+> "Si el código es complejo, es que se puede hacer mejor."
