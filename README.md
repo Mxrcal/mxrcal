@@ -1,4 +1,4 @@
-# Hola, soy Marc Illescas 🌊
+# Marc Illescas
 
 Soy co-fundador de [Softwave.es](https://www.softwave.es). Me dedico a programar aplicaciones web que cargan rápido, no se rompen y son fáciles de mantener. Me gusta el código limpio, pero me gusta más que las soluciones funcionen y ayuden a los negocios a ir mejor.
 
@@ -19,19 +19,12 @@ No me gusta cerrarme a una sola herramienta, pero estas son las que más uso en 
 
 ### 🏗️ Cosas en las que estoy trabajando ahora
 
-En **Softwave** tratamos cada proyecto como si fuera nuestro. Por privacidad no puedo enseñarte todo el código, pero estos son los retos que tengo ahora mismo en la mesa:
+En **Softwave** tratamos cada proyecto como si fuera nuestro. Por privacidad no puedo enseñar codigo, pero estos son los retos que tengo ahora mismo en la mesa:
 
 * **Framed by Mario:** Una plataforma para un editor de vídeo. El reto es que la web sea "cinemática" y maneje archivos pesados de alta resolución sin que la velocidad de carga se resienta.
-* **Binatics:** Estamos montando la infraestructura digital para una consultoría de ciberseguridad industrial. Aquí la prioridad absoluta es la seguridad y que el sistema sea robusto.
 * **Softwave Engine:** Es nuestra propia base de trabajo en Next.js. La hemos pulido para que cualquier proyecto que empecemos ya salga de serie con SEO, velocidad y seguridad a tope.
+* **Fixea (SaaS B2B): Plataforma integral desarrollada a medida que automatiza la gestión administrativa para técnicos (presupuestos, facturación, asignación de incidencias) desde dispositivos móviles.
 
----
-
-### 🧠 Mi filosofía de trabajo (sin rodeos)
-
-- **Código para humanos:** Escribo código pensando en que otro programador (o yo mismo en 6 meses) pueda entenderlo sin volverse loco.
-- **Rendimiento real:** No me sirven las webs que "parecen" rápidas. Me obsesiono con los números de Google para que la experiencia sea fluida de verdad.
-- **Pragmatismo:** Uso IA para ser más rápido y Docker para que no haya sorpresas al subir a producción. Se trata de usar la tecnología para solucionar problemas, no para complicarlos.
 
 ---
 
