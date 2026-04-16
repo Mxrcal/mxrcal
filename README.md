@@ -24,13 +24,14 @@
 
 ---
 
-### 🚀 Proyectos Estratégicos
+### 🏗️ Portfolio de Ingeniería & Soluciones
 
-Debido a mi rol como Founder y a los acuerdos de confidencialidad (NDA), los repositorios de producción son privados. **Ofrezco disponibilidad para realizar una demostración técnica en directo** sobre la arquitectura de:
+Aunque el desarrollo de ecosistemas empresariales se mantiene bajo entornos privados por seguridad, aquí se detallan los sistemas arquitectónicos que desarrollo:
 
-* **Binatics:** Infraestructura digital para consultoría IT crítica y ciberseguridad industrial.
-* **Framed by Mario:** Sistema premium de booking y gestión fotográfica con carga optimizada de activos de alta resolución.
-* **Softwave Core:** Nuestra arquitectura base propietaria diseñada para maximizar velocidad, SEO y seguridad en soluciones B2B.
+* **Framed by Mario | Video Post-Production:** Plataforma premium para edición y post-producción de vídeo. El reto técnico: gestión de activos de alta resolución (high-bitrate), optimización de carga y una UX cinemática con rendimiento 100/100 en Lighthouse.
+* **Softwave Engine:** Nuestro "Core" propietario. Una arquitectura modular basada en Next.js 15 que reduce los tiempos de desarrollo en un 40% manteniendo estándares de seguridad blindada.
+
+> *Nota técnica: Implementaciones realizadas bajo estándares de Clean Architecture y SOLID.*
 
 ---
 
