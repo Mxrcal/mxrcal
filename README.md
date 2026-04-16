@@ -1,40 +1,42 @@
 # Marc Illescas
 
-Soy co-fundador de [Softwave.es](https://www.softwave.es). Me dedico a programar aplicaciones web que cargan rápido, no se rompen y son fáciles de mantener. Me gusta el código limpio, pero me gusta más que las soluciones funcionen y ayuden a los negocios a ir mejor.
+Soy co-fundador de **Softwave.es**. Me considero un **Programador Fullstack** con una fuerte inclinación hacia la **Infraestructura y DevOps**. Mi trabajo no es solo escribir código, sino diseñar sistemas completos que sean sólidos, automáticos y capaces de escalar sin dramas.
+
+Aunque me muevo bien en todo el stack, actualmente estoy centrando mi especialización en optimizar el ciclo de vida del software: desde la arquitectura inicial hasta que el sistema está corriendo en producción de forma eficiente.
 
 ---
 
-### 💻 ¿Con qué tecnologías trabajo?
+### 💻 Stack Técnico & Foco en Infraestructura
 
-No me gusta cerrarme a una sola herramienta, pero estas son las que más uso en el día a día para construir proyectos:
+Mi día a día se divide entre picar lógica de negocio y asegurar que la "maquinaria" que hay detrás no falle.
 
-| Área | Tecnologías | Lo que suelo hacer con ellas |
+| Área | Tecnologías | Enfoque |
 | :--- | :--- | :--- |
-| **IA & Automatización** | Python, LangChain, APIs de OpenAI/Claude | Automatizar tareas pesadas y conectar LLMs a datos reales. |
-| **Backend & Datos** | Java, Node.js, FastAPI, SQL (Postgres) | Crear APIs sólidas y diseñar bases de datos que tengan sentido. |
-| **Frontend & Web** | Next.js 15, TypeScript, Tailwind v4, React | Hacer que la web vuele (100/100 en Lighthouse) y se vea bien. |
-| **Infra & DevOps** | Docker, Git, CI/CD, Vercel, Supabase | Desplegar sin miedo y monitorizar que todo vaya como un reloj. |
+| **DevOps & Sistemas** | Docker, Git, CI/CD, Vercel, Supabase | Automatización de despliegues y gestión de entornos. |
+| **Backend & Datos** | Java, Python, Node.js, SQL (PostgreSQL) | Creación de APIs robustas e integración de servicios inteligentes. |
+| **Frontend & Performance** | Next.js 15, TypeScript, Tailwind v4 | Arquitecturas Type-safe y optimización extrema de carga. |
+| **IA & Automatización** | LangChain, APIs de OpenAI/Claude | Desarrollo de procesos autónomos para optimizar flujos de trabajo. |
 
 ---
 
-### 🏗️ Cosas en las que estoy trabajando ahora
+### 🏗️ Proyectos y Retos Actuales
 
-En **Softwave** tratamos cada proyecto como si fuera nuestro. Por privacidad no puedo enseñar codigo, pero estos son los retos que tengo ahora mismo en la mesa:
+En **Softwave**, gestiono la parte técnica de proyectos donde la infraestructura es clave:
 
-* **Framed by Mario:** Una plataforma para un editor de vídeo. El reto es que la web sea "cinemática" y maneje archivos pesados de alta resolución sin que la velocidad de carga se resienta.
-* **Softwave Engine:** Es nuestra propia base de trabajo en Next.js. La hemos pulido para que cualquier proyecto que empecemos ya salga de serie con SEO, velocidad y seguridad a tope.
-* **Fixea (SaaS B2B): Plataforma integral desarrollada a medida que automatiza la gestión administrativa para técnicos (presupuestos, facturación, asignación de incidencias) desde dispositivos móviles.
-
+* **Binatics:** Trabajando en la infraestructura digital para una consultoría de ciberseguridad industrial. Aquí el foco está en la seguridad de los datos y en crear un sistema resistente y fiable.
+* **Framed by Mario:** Plataforma para edición de vídeo profesional. El reto técnico aquí no es solo visual, sino gestionar flujos de trabajo con archivos pesados y asegurar un rendimiento fluido.
+* **Softwave Engine:** He desarrollado nuestra propia arquitectura base en Next.js para que todos nuestros despliegues sean consistentes, rápidos y fáciles de mantener desde el minuto uno.
 
 ---
+
 
 ### 📫 ¿Hablamos?
 
-Si tienes un proyecto en mente, quieres hablar de arquitectura o simplemente comentar algún script, búscame por aquí:
+Si quieres charlar sobre arquitectura, infraestructura o cómo estamos montando Softwave, aquí me tienes:
 
-* **Mi agencia:** [Softwave.es](https://www.softwave.es)
+* **Agencia:** [Softwave.es](https://www.softwave.es)
 * **LinkedIn:** [linkedin.com/in/marcaldev](https://www.linkedin.com/in/marcaldev)
 * **Email:** [marc.illescas@softwave.es](mailto:marc.illescas@softwave.es)
 
 ---
-> "Si el código es complejo, es que se puede hacer mejor."
+> "Programar es el arte de automatizar la complejidad para que parezca sencilla."
