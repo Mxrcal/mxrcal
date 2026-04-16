@@ -1,39 +1,36 @@
 # Marc Illescas | Founder & Software Architect @ Softwave.es
 
-**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad y la implementación de soluciones inteligentes.
+**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad extrema y la implementación de soluciones inteligentes.
 
 ---
 
 ### 💻 Stack Técnico y Arquitectura
 
-#### **IA & Automatización**
-* **Lenguajes & Frameworks:** Python, LangChain, Integración de LLMs (OpenAI, Claude).
-* **Conceptos:** Automatización de flujos de trabajo, Prompt Engineering avanzado, IA aplicada a lógica de negocio.
+| Ecosistema | Tecnologías | Conceptos Clave |
+| :--- | :--- | :--- |
+| **IA & Automatización** | Python, LangChain, OpenAI/Claude API | Sistemas Agénticos, Prompt Engineering, RAG |
+| **Backend & Datos** | Java, Node.js, FastAPI, SQL (Postgres) | Clean Architecture, SOLID, Diseño de APIs REST |
+| **Frontend & UX** | Next.js 15, TypeScript, Tailwind v4, React | Core Web Vitals, Performance (100/100), Framer Motion |
+| **Infraestructura & Ops** | Docker, Git, CI/CD, Vercel, Supabase | Contenerización, Type-Safe (Zod), Sentry Monitoring |
 
-#### **Backend & Datos**
-* **Lenguajes & Frameworks:** Java (Enterprise Logic), Node.js, FastAPI.
-* **Bases de Datos:** SQL (PostgreSQL), Supabase, Diseño de bases de datos relacionales y optimización de consultas.
-* **Arquitectura:** Clean Architecture, principios SOLID, Diseño de APIs REST seguras y Microservicios.
+---
 
-#### **Frontend & Performance**
-* **Frameworks:** Next.js 15 (App Router), React 19, TypeScript.
-* **Estilos:** Tailwind CSS v4, Framer Motion, arquitecturas de componentes escalables y reusables.
-* **Optimización:** Especialista en **Core Web Vitals** y optimización del *Critical Rendering Path* (100/100 Lighthouse).
+### 🧠 Pilares de Ingeniería en Softwave
 
-#### **Infraestructura & DevOps**
-* **Contenerización:** **Docker** para estandarización de entornos.
-* **Control & Seguridad:** Git, Zod (Validación Type-Safe), Sentry (Monitorización proactiva).
-* **Deployment:** CI/CD, despliegues en entornos Cloud y optimización de Vercel.
+- **🏗️ Arquitectura de Software:** Implementación estricta de principios **SOLID** y **Clean Architecture**. Diseño sistemas modulares pensados para ser mantenibles y escalables a largo plazo.
+- **⚡ Optimización de Performance:** Especialista en **Core Web Vitals**. Optimizo el *Critical Rendering Path* para garantizar que cada milisegundo cuente en la conversión de negocio.
+- **🤖 Inteligencia Artificial Aplicada:** No solo integro modelos; diseño flujos de trabajo autónomos y automatizaciones que optimizan costes operativos y mejoran la UX.
+- **🐳 DevOps & Seguridad:** Uso **Docker** para asegurar la paridad de entornos y aplico protocolos de **Seguridad por Diseño** mediante validación estricta y tipado estricto.
 
 ---
 
 ### 🚀 Proyectos Estratégicos
 
-Los repositorios de producción son privados por seguridad y confidencialidad. **Ofrezco total disponibilidad para realizar una demostración técnica en directo** sobre la arquitectura, el código y las integraciones de los siguientes sistemas:
+Debido a mi rol como Founder y a los acuerdos de confidencialidad (NDA), los repositorios de producción son privados. **Ofrezco disponibilidad para realizar una demostración técnica en directo** sobre la arquitectura de:
 
-* **Binatics:** Diseño e implementación de la infraestructura digital para consultoría IT y ciberseguridad industrial. Enfoque en robustez y alta disponibilidad.
-* **Framed by Mario:** Sistema premium de gestión y booking fotográfico con una experiencia de usuario fluida y carga optimizada de activos de alta resolución.
-* **Softwave Core:** Nuestra propia arquitectura base propietaria diseñada para maximizar la velocidad, el SEO y la seguridad en soluciones B2B.
+* **Binatics:** Infraestructura digital para consultoría IT crítica y ciberseguridad industrial.
+* **Framed by Mario:** Sistema premium de booking y gestión fotográfica con carga optimizada de activos de alta resolución.
+* **Softwave Core:** Nuestra arquitectura base propietaria diseñada para maximizar velocidad, SEO y seguridad en soluciones B2B.
 
 ---
 
@@ -46,10 +43,8 @@ Los repositorios de producción son privados por seguridad y confidencialidad. *
 
 ### 📫 Contacto y Enlaces
 
-Si buscas un perfil técnico para liderar el desarrollo de tu producto o necesitas una arquitectura que soporte el crecimiento de tu empresa, hablemos:
-
 * **Web Corporativa:** [Softwave.es](https://www.softwave.es)
-* **LinkedIn:** [Tu Enlace Aquí]
+* **LinkedIn:** [linkedin.com/in/tu-usuario]
 * **Email:** [tu-email@softwave.es]
 
 ---
