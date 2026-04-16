@@ -1,47 +1,51 @@
-# 🌊 Marc | Founder & Software Architect @ Softwave.es
+# 🌊 Marc [Tu Apellido]
 
-**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad extrema y la integración inteligente de IA.
+### Software Architect | High-Performance Web Specialist | Founder @ Softwave.es
 
----
+Soy cofundador y Lead Developer en **Softwave.es**. Mi enfoque se centra en la **arquitectura de precisión**: desarrollo soluciones digitales donde la seguridad blindada, el rendimiento extremo (Core Web Vitals) y la escalabilidad técnica son los pilares fundamentales.
 
-### 🛠️ Core Tech Stack & Engineering
-
-| Ecosistema | Tecnologías |
-| :--- | :--- |
-| **Frontend de Alto Rendimiento** | Next.js 15, TypeScript, Tailwind v4, React |
-| **Backend & Enterprise Logic** | Java (Patrones de diseño), Python (IA & Scripting), SQL |
-| **Infraestructura & DevOps** | Docker (Containerización), Vercel, Supabase, CI/CD |
-| **Calidad & Control** | Zod (Validation), Sentry (Monitoring), Lighthouse (Performance) |
+No solo escribo código; diseño infraestructuras. Mi metodología de trabajo prioriza la **Clean Architecture** y los principios **SOLID**, garantizando que cada sistema no solo sea rápido hoy, sino mantenible y escalable mañana.
 
 ---
 
-### 🧠 Pilares de Ingeniería en Softwave
+### 🛠️ Stack Técnico y Arquitectura
 
-- **🏗️ Arquitectura de Software:** Implementación estricta de principios **SOLID** y **Clean Architecture**. Diseño sistemas pensados para ser mantenibles, testeables y escalables desde el primer día.
-- **⚡ Optimización de Performance:** Obsesionado con el **Core Web Vitals**. No solo construyo webs, optimizo el "Critical Rendering Path" para alcanzar el 100/100 en rendimiento real.
-- **🤖 Integración de IA:** Desarrollo de flujos de trabajo automatizados e integración de **Modelos de Lenguaje (LLMs)** en lógica de negocio para crear soluciones inteligentes que ahorran costes y tiempo.
-- **🐳 DevOps & Despliegue:** Uso de **Docker** para garantizar entornos de desarrollo y producción idénticos, eliminando el "en mi local funciona" y profesionalizando el ciclo de vida del software.
+#### **Frontend & Performance**
+* **Frameworks:** React 19, Next.js 15 (App Router), TypeScript.
+* **Estilos & UX:** Tailwind CSS v4, Framer Motion, Accesibilidad técnica.
+* **Optimización:** Especialista en **Core Web Vitals** y optimización del *Critical Rendering Path* para lograr puntuaciones 100/100 en Lighthouse.
 
----
+#### **Backend & Ingeniería de Datos**
+* **Lenguajes:** **Java** (Lógica Enterprise y patrones de diseño), **Python** (AI Integration, Scripting y automatización).
+* **Persistencia:** SQL (PostgreSQL), Supabase, diseño avanzado de bases de datos relacionales y optimización de consultas.
+* **Validación:** Seguridad por diseño mediante **Zod** y tipado estricto extremo (Type-Safe Engineering).
 
-### 🏗️ Proyectos Estratégicos en @Softwave
-
-- **Binatics:** Diseño de infraestructura y landing de alta seguridad para consultoría IT y redes industriales.
-- **Framed by Mario:** Sistema premium de booking y gestión fotográfica con enfoque en UX de alta gama.
-- **Softwave Core:** Arquitectura base propietaria optimizada para velocidad de carga y seguridad blindada.
-
----
-
-### 📊 Actividad Profesional
-*(El gráfico muestra mi compromiso diario con la entrega de código de calidad en infraestructuras privadas de clientes)*
-
-![Estadísticas de Marc](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&locale=es)
+#### **Infraestructura & DevOps**
+* **Contenerización:** **Docker** para la estandarización de entornos de desarrollo y producción.
+* **Deployment:** Vercel, CI/CD, monitorización proactiva con **Sentry**.
+* **Arquitectura:** Diseño de microservicios y APIs REST seguras bajo estándares industriales.
 
 ---
 
-### 📬 Contacto Directo
-- 🌍 **Web:** [Softwave.es](https://www.softwave.es)
-- 💼 **LinkedIn:** [Tu Enlace]
-- ✉️ **Email:** [Tu Email de Founder]
+### 🚀 Proyectos Estratégicos
 
-> "La excelencia técnica no es un acto, es un hábito. En Softwave, convertimos la complejidad en sistemas eficientes y elegantes."
+Debido a mi rol como Founder y a los acuerdos de confidencialidad (NDA) con nuestros clientes, los repositorios principales de producción son privados. **No obstante, ofrezco total disponibilidad para realizar una sesión técnica en directo** para desglosar la arquitectura, la seguridad y el rendimiento de los siguientes activos:
+
+* **Binatics:** Diseño e implementación de la infraestructura digital para consultoría de IT crítica y ciberseguridad industrial. Un sistema donde la robustez y la tolerancia a fallos son el núcleo del producto.
+* **Framed by Mario:** Plataforma premium para fotografía profesional con un motor de reservas a medida y un enfoque en la carga ultrarrápida de activos visuales de alta densidad.
+* **Softwave Core:** Nuestra propia infraestructura base propietaria, optimizada para servir como motor de alto rendimiento en soluciones B2B escalables.
+
+*(En los repositorios públicos de esta cuenta puedes revisar mis laboratorios, pruebas de concepto con Docker y scripts de automatización en Python).*
+
+---
+
+### 📫 Contacto y Conexión
+
+Si buscas un socio técnico para elevar el estándar de calidad de tu producto o necesitas una arquitectura que soporte el crecimiento real de tu empresa, hablemos:
+
+* **Web Corporativa:** [Softwave.es](https://www.softwave.es)
+* **LinkedIn:** [linkedin.com/in/tu-usuario]
+* **Email Profesional:** [tu-email@softwave.es]
+
+---
+> "La complejidad es el enemigo de la ejecución. Mi trabajo es simplificarla mediante una arquitectura impecable."
