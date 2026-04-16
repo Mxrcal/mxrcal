@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌊 Marc | Softwave Agency
 
-<!--
-**Mxrcal/mxrcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Developer & Software Architect** specializing in building secure, high-performance digital products.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🏗️ **Binatics:** Enterprise IT Infrastructure & Cybersecurity landing.
+- 📸 **Framed by Mario:** High-end photography portfolio & booking system.
+- 🤖 **Softwave AI Agents:** Internal tools for automated development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/Security_by_Zod-3068b7?style=for-the-badge)
+
+### 📊 Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+> "Engineering software that doesn't just work, but lasts."
