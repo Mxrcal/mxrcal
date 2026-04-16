@@ -34,18 +34,12 @@ Debido a mi rol como Founder y a los acuerdos de confidencialidad (NDA), los rep
 
 ---
 
-### 📊 Actividad Profesional
-*(El gráfico refleja mi compromiso diario con la entrega de código de calidad en infraestructuras privadas)*
-
-![Estadísticas de Marc](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&locale=es)
-
----
 
 ### 📫 Contacto y Enlaces
 
 * **Web Corporativa:** [Softwave.es](https://www.softwave.es)
-* **LinkedIn:** [linkedin.com/in/tu-usuario]
-* **Email:** [tu-email@softwave.es]
+* **LinkedIn:** [linkedin.com/in/marcaldev]
+* **Email:** [marc.illescas@softwave.es]
 
 ---
 > "La excelencia técnica no es un acto, es un hábito. En Softwave, convertimos la complejidad en sistemas eficientes y elegantes."
