@@ -1,40 +1,47 @@
-# 🌊 Marc | Founder de Softwave.es
+# 🌊 Marc | Founder & Software Architect @ Softwave.es
 
-**Ingeniero de Software y Arquitecto de Soluciones Digitales.** Me dedico a transformar ideas complejas en infraestructuras digitales robustas, rápidas y seguras. Mi enfoque combina la precisión técnica con una visión de negocio orientada a resultados.
-
----
-
-### 🛠️ Stack Tecnológico
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Especialidad:** Desarrollo Fullstack con Next.js 15, validación de datos con **Zod** y arquitectura **Type-Safe**.
-- **Seguridad:** Implementación de protocolos de seguridad por diseño y monitorización proactiva con **Sentry**.
+**Arquitecto de Software enfocado en la construcción de infraestructuras digitales de alto rendimiento, escalables y seguras.** Mi enfoque se centra en la ingeniería de precisión: donde la arquitectura sólida se encuentra con la velocidad extrema y la integración inteligente de IA.
 
 ---
 
-### 🏗️ Proyectos Actuales en @Softwave
+### 🛠️ Core Tech Stack & Engineering
 
-Actualmente lidero el desarrollo de:
-- **Binatics:** Infraestructura de landing page para servicios de IT crítica y ciberseguridad industrial.
-- **Framed by Mario:** Sistema de gestión y portfolio de alta gama para fotografía profesional.
-- **Softwave Core:** Nuestra propia infraestructura base optimizada para velocidad y SEO.
+| Ecosistema | Tecnologías |
+| :--- | :--- |
+| **Frontend de Alto Rendimiento** | Next.js 15, TypeScript, Tailwind v4, React |
+| **Backend & Enterprise Logic** | Java (Patrones de diseño), Python (IA & Scripting), SQL |
+| **Infraestructura & DevOps** | Docker (Containerización), Vercel, Supabase, CI/CD |
+| **Calidad & Control** | Zod (Validation), Sentry (Monitoring), Lighthouse (Performance) |
 
 ---
 
-### 📊 Actividad y Estadísticas
-*(Nota: Mis repositorios de clientes son privados por seguridad, pero puedes ver mi actividad diaria aquí debajo)*
+### 🧠 Pilares de Ingeniería en Softwave
+
+- **🏗️ Arquitectura de Software:** Implementación estricta de principios **SOLID** y **Clean Architecture**. Diseño sistemas pensados para ser mantenibles, testeables y escalables desde el primer día.
+- **⚡ Optimización de Performance:** Obsesionado con el **Core Web Vitals**. No solo construyo webs, optimizo el "Critical Rendering Path" para alcanzar el 100/100 en rendimiento real.
+- **🤖 Integración de IA:** Desarrollo de flujos de trabajo automatizados e integración de **Modelos de Lenguaje (LLMs)** en lógica de negocio para crear soluciones inteligentes que ahorran costes y tiempo.
+- **🐳 DevOps & Despliegue:** Uso de **Docker** para garantizar entornos de desarrollo y producción idénticos, eliminando el "en mi local funciona" y profesionalizando el ciclo de vida del software.
+
+---
+
+### 🏗️ Proyectos Estratégicos en @Softwave
+
+- **Binatics:** Diseño de infraestructura y landing de alta seguridad para consultoría IT y redes industriales.
+- **Framed by Mario:** Sistema premium de booking y gestión fotográfica con enfoque en UX de alta gama.
+- **Softwave Core:** Arquitectura base propietaria optimizada para velocidad de carga y seguridad blindada.
+
+---
+
+### 📊 Actividad Profesional
+*(El gráfico muestra mi compromiso diario con la entrega de código de calidad en infraestructuras privadas de clientes)*
 
 ![Estadísticas de Marc](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&locale=es)
 
 ---
 
-### 📬 Conecta conmigo
-- 🌍 Web: [Softwave.es](https://www.softwave.es)
-- 💼 LinkedIn: [Tu Enlace Aquí]
-- ✉️ Email: [Tu Email Profesional]
+### 📬 Contacto Directo
+- 🌍 **Web:** [Softwave.es](https://www.softwave.es)
+- 💼 **LinkedIn:** [Tu Enlace]
+- ✉️ **Email:** [Tu Email de Founder]
 
-> "La ingeniería de software no trata solo de escribir código, sino de resolver problemas de forma que el sistema sea invisible y eficiente."
+> "La excelencia técnica no es un acto, es un hábito. En Softwave, convertimos la complejidad en sistemas eficientes y elegantes."
