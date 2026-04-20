@@ -21,16 +21,14 @@ Me especializo en el diseño de **plataformas SaaS B2B** y en la **automatizaci�
 
 En **Softwave**, gestiono la parte técnica de proyectos donde la infraestructura es clave:
 
-* **Framed by Mario:** Plataforma para edición de vídeo profesional. El reto técnico aquí no es solo visual, sino gestionar flujos de trabajo con archivos pesados y asegurar un rendimiento fluido.
-* **Softwave Engine:** He desarrollado nuestra propia arquitectura base en Next.js para que todos nuestros despliegues sean consistentes, rápidos y fáciles de mantener desde el minuto uno.
+- **Framed by Mario:** Plataforma para edición de vídeo profesional. El reto técnico aquí no es solo visual, sino gestionar flujos de trabajo con archivos pesados y asegurar un rendimiento fluido.
+
+- **Softwave Engine:** He desarrollado un **framework propietario de desarrollo AI-first** construido sobre Next.js 15. No es solo una plantilla — es una metodología completa con arquitectura definida, estándares de seguridad invariables, sistema de diseño dinámico (**UI-PRO-MAX**) y un protocolo de IA encadenado (Claude Chat → Claude Design → Claude Code) que garantiza que cada proyecto sea único, seguro y production-ready desde el día 1. Lo que cualquiera puede replicar es el stack; lo que no pueden replicar es el proceso.
 
 ---
-
 
 ### 📫 ¿Hablamos?
 
-* **Agencia:** [Softwave.es](https://www.softwave.es)
-* **LinkedIn:** [linkedin.com/in/marcaldev](https://www.linkedin.com/in/marcaldev)
-* **Email:** [marc.illescas@softwave.es](mailto:marc.illescas@softwave.es)
-
----
+- **Agencia:** [Softwave.es](https://www.softwave.es)
+- **LinkedIn:** [linkedin.com/in/marcaldev](https://www.linkedin.com/in/marcaldev)
+- **Email:** [marc.illescas@softwave.es](mailto:marc.illescas@softwave.es)
