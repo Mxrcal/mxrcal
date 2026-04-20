@@ -23,7 +23,7 @@ En **Softwave**, gestiono la parte técnica de proyectos donde la infraestructur
 
 - **Framed by Mario:** Plataforma para edición de vídeo profesional. El reto técnico aquí no es solo visual, sino gestionar flujos de trabajo con archivos pesados y asegurar un rendimiento fluido.
 
-- **Softwave Engine:** He desarrollado un **framework propietario de desarrollo AI-first** construido sobre Next.js 15. No es solo una plantilla — es una metodología completa con arquitectura definida, estándares de seguridad invariables, sistema de diseño dinámico (**UI-PRO-MAX**) y un protocolo de IA encadenado (Claude Chat → Claude Design → Claude Code) que garantiza que cada proyecto sea único, seguro y production-ready desde el día 1. Lo que cualquiera puede replicar es el stack; lo que no pueden replicar es el proceso.
+- **Softwave Engine:** He desarrollado un **framework propietario de desarrollo AI-first** construido sobre Next.js 15. No es solo una plantilla — es una metodología completa con arquitectura definida, estándares de seguridad invariables, sistema de diseño dinámico. Garantiza que cada proyecto sea único, seguro y production-ready desde el día 1.
 
 ---
 
