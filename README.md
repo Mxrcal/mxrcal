@@ -12,7 +12,7 @@ Me especializo en el diseño de **plataformas SaaS B2B** y en la **automatizaci�
 | :--- | :--- | :--- |
 | **DevOps & Sistemas** | Docker, Git, CI/CD, Vercel, Supabase | Automatización de despliegues y gestión de entornos. |
 | **Backend & Datos** | Java, Python, Node.js, SQL (PostgreSQL) | Creación de APIs robustas e integración de servicios inteligentes. |
-| **Frontend & Performance** | Next.js 15, TypeScript, Tailwind v4 | Arquitecturas Type-safe y optimización extrema de carga. |
+| **Frontend & Performance** | Next.js 15, Angular, TypeScript, Tailwind v4 | Arquitecturas Type-safe y optimización extrema de carga. |
 | **IA & Automatización** | LangChain, APIs de OpenAI/Claude | Desarrollo de procesos autónomos para optimizar flujos de trabajo. |
 
 ---
