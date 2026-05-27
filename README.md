@@ -19,12 +19,16 @@ Me especializo en el diseño de **plataformas SaaS B2B** y en la **automatizaci�
 
 ### 🏗️ Proyectos y Retos Actuales
 
-En **Softwave**, gestiono la parte técnica de proyectos donde la infraestructura es clave:
+En **Softwave**, lidero la parte técnica de proyectos donde combinamos desarrollo web, automatización, datos e infraestructura para crear productos digitales reales, no solo páginas informativas.
 
-- **Framed by Mario:** Plataforma para edición de vídeo profesional. El reto técnico aquí no es solo visual, sino gestionar flujos de trabajo con archivos pesados y asegurar un rendimiento fluido.
+- **Keiken World:** Desarrollo de una plataforma web para una tienda TCG con catálogo, ecommerce, gestión de stock, pagos con Stripe, envíos y backoffice interno.  
+  Además de la parte pública, el sistema incluye acceso para trabajadores y clientes, gestión de clientes, pedidos, envíos y operaciones internas de la tienda.
 
-- **Softwave Engine:** He desarrollado un **framework propietario de desarrollo AI-first** construido sobre Next.js 15. No es solo una plantilla — es una metodología completa con arquitectura definida, estándares de seguridad invariables, sistema de diseño dinámico. Garantiza que cada proyecto sea único, seguro y production-ready desde el día 1.
+- **Injertos Capilares:** Plataforma comparadora de clínicas capilares con enfoque SEO y captación de leads.  
+  El proyecto incluye un sistema de scraping y estructuración de datos para analizar clínicas, tratamientos, precios, ubicaciones y otros criterios comparables, con el objetivo de ofrecer una experiencia útil para usuarios que buscan información antes de contactar.
 
+- **Softwave Engine:** Framework propietario de desarrollo AI-first construido sobre Next.js.  
+  No es solo una plantilla: es una metodología completa con arquitectura definida, estándares de seguridad, sistema de diseño dinámico, documentación técnica, protocolo de trabajo con IA y flujo preparado para producción. Nos permite lanzar proyectos de cliente de forma más rápida, consistente y mantenible.
 ---
 
 ### 📫 ¿Hablamos?
