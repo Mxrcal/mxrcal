@@ -122,6 +122,7 @@ Stack
 
 Next.js TypeScript Supabase PostgreSQL Stripe
 
+
 🔎 Injertos Capilares
 
 Plataforma orientada a descubrir, comparar y analizar
@@ -149,6 +150,7 @@ Generación de leads
 Stack
 
 Next.js TypeScript Supabase PostgreSQL
+
 
 🌊 Softwave
 
