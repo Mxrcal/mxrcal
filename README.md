@@ -27,7 +27,7 @@
         ██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗
         ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 
-              marc@softwave
+              m.illescas97@gmail.com
               ─────────────
 
            Software Developer
