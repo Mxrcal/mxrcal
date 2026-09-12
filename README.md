@@ -1,11 +1,11 @@
 <h1 align="center">Marc Illescas</h1>
 
 <p align="center">
-  <strong>Software Developer · Full-Stack · AI & Automation</strong>
+  <strong>Software Developer · Full-Stack · IA y Automatización</strong>
 </p>
 
 <p align="center">
-  Building software, automations and digital systems for real-world problems.
+  Desarrollo software, automatizaciones y sistemas digitales para resolver problemas reales.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
         Software Developer
         Full-Stack
-        AI & Automation
+        IA & Automatización
 
 </td>
 
@@ -39,11 +39,11 @@
 
 marc@softwave ~ $ neofetch
 
-OS:              macOS / Windows
-Role:            Software Developer
-Location:        Barcelona, Spain
+SO:               macOS / Windows
+Rol:              Software Developer
+Ubicación:        Barcelona, España
 
-Languages:
+Lenguajes:
   TypeScript
   Java
   Python
@@ -60,69 +60,72 @@ Backend:
   PostgreSQL
   REST APIs
 
-AI & Automation:
+IA & Automatización:
   OpenAI API
   Claude API
   LLMs
-  AI Agents
+  Agentes de IA
   n8n
 
-Infrastructure:
+Infraestructura:
   Git
   GitHub
   Docker
   Vercel
 
-Currently:
-  → Building SaaS
-  → Automating businesses
-  → Exploring AI systems
+Actualmente:
+  → Construyendo SaaS
+  → Automatizando negocios
+  → Explorando sistemas con IA
 
 </td>
 </tr>
 </table>
 
-> whoami
+> quién soy
 
-I'm a Software Developer focused on building modern web applications,
-business automation and AI-powered systems.
+Soy Desarrollador de Software, enfocado en el desarrollo de
+aplicaciones web modernas, automatización de procesos empresariales
+e integración de Inteligencia Artificial.
 
-I enjoy working across the full stack — from frontend interfaces and
-backend architecture to databases, APIs, deployments and automation.
+Me gusta trabajar en todo el stack: desde interfaces frontend y
+arquitectura backend hasta bases de datos, APIs, despliegues y
+automatizaciones.
 
-I'm also co-founder of Softwave, where I work on digital products,
-business systems and automation solutions for real-world use cases.
+También soy cofundador de Softwave, donde trabajo en productos
+digitales, sistemas internos y soluciones de automatización para
+casos de uso reales.
 
-My goal is to build software that is functional, maintainable and useful —
-from the first prototype to production.
+Mi objetivo es construir software funcional, mantenible y útil,
+desde el primer prototipo hasta producción.
 
-> projects
+> proyectos
 
 🛒 Keiken World
 
-Digital platform developed for a TCG business.
+Plataforma digital desarrollada para un negocio especializado en TCG.
 
-The project goes beyond a traditional corporate website, combining
-customer-facing functionality with an architecture prepared for
-ecommerce and internal management.
+El proyecto va más allá de una web corporativa tradicional, combinando
+funcionalidades para clientes con una arquitectura preparada para
+ecommerce y gestión interna.
 
-Features
+Funcionalidades
 
-Product catalogue
+Catálogo de productos
 
-User authentication
+Autenticación de usuarios
 
-Events & reservations
+Eventos y reservas
 
-Ecommerce architecture
+Arquitectura ecommerce
 
-Stock management
+Gestión de stock
 
-Stripe payments
+Pagos con Stripe
 
-Orders & shipping
+Pedidos y envíos
 
-Internal administration
+Administración interna
 
 Stack
 
@@ -130,27 +133,27 @@ Next.js TypeScript Supabase PostgreSQL Stripe
 
 🔎 Injertos Capilares
 
-Platform focused on discovering, comparing and analyzing
-hair transplant clinics.
+Plataforma orientada a descubrir, comparar y analizar
+clínicas de trasplante capilar.
 
-The project combines automated data collection with normalization,
-search, comparison and SEO-oriented architecture.
+El proyecto combina recopilación automatizada de datos con
+normalización, búsqueda, comparación y una arquitectura orientada a SEO.
 
-Features
+Funcionalidades
 
-Automated data collection
+Recopilación automatizada de datos
 
-Data normalization
+Normalización de datos
 
-Clinic comparison
+Comparación de clínicas
 
-Search & filtering
+Búsqueda y filtrado
 
-Location-based information
+Información por ubicación
 
-SEO-oriented architecture
+Arquitectura orientada a SEO
 
-Lead generation
+Generación de leads
 
 Stack
 
@@ -158,27 +161,27 @@ Next.js TypeScript Supabase PostgreSQL
 
 🌊 Softwave
 
-Digital agency focused on software development, business automation
-and applied AI.
+Agencia digital centrada en desarrollo de software, automatización
+de procesos empresariales e Inteligencia Artificial aplicada.
 
-Through Softwave I work on digital products and internal systems
-designed to solve real business problems.
+A través de Softwave trabajo en productos digitales y sistemas internos
+diseñados para resolver problemas reales de negocio.
 
-Focus
+Áreas
 
-Web application development
+Desarrollo de aplicaciones web
 
-SaaS platforms
+Plataformas SaaS
 
-Business process automation
+Automatización de procesos
 
-AI-powered workflows
+Workflows con IA
 
-Internal tools
+Herramientas internas
 
-CRM integrations
+Integraciones con CRM
 
-API integrations
+Integraciones mediante APIs
 
 Stack
 
@@ -193,7 +196,7 @@ Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
 </p>
 
-Backend & Data
+Backend y datos
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
@@ -201,52 +204,52 @@ Backend & Data
 
 Supabase · SQL · REST APIs · Zod
 
-AI & Automation
+IA y automatización
 
-OpenAI API · Claude API · LLMs · AI Agents · n8n
+OpenAI API · Claude API · LLMs · Agentes de IA · n8n
 
-Infrastructure
+Infraestructura
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
 </p>
 
-Other
+Otros
 
 Java · Python · Flutter · Dart · Figma · Stripe
 
-> currently_learning
+> aprendiendo actualmente
 
-→ Software architecture
-→ Backend development
-→ DevOps & infrastructure
-→ AI agents & automation
-→ Scalable SaaS architecture
-→ Production-ready systems
+→ Arquitectura de software
+→ Desarrollo backend
+→ DevOps e infraestructura
+→ Agentes de IA y automatización
+→ Arquitecturas SaaS escalables
+→ Sistemas preparados para producción
 
-> philosophy
+> filosofía
 
-Build things that solve real problems.
+Construir cosas que resuelvan problemas reales.
 
-Keep systems simple when possible.
-Automate what should not be manual.
-Use AI where it actually adds value.
-Write software that can be maintained by someone else.
+Mantener los sistemas simples cuando sea posible.
+Automatizar lo que no debería hacerse manualmente.
+Utilizar IA cuando realmente aporte valor.
+Escribir software que otra persona pueda mantener.
 
-> contact
+> contacto
 
 <p align="center">
 
 <a href="https://softwave.es">
-<img src="https://img.shields.io/badge/Softwave-Website-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Softwave-Web-informational?style=flat-square" />
 </a>
 
 <a href="https://www.linkedin.com/in/marcaldev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Contactar-informational?style=flat-square&logo=linkedin" />
 </a>
 
 <a href="mailto:m.illescas97@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Email-Contactar-informational?style=flat-square" />
 </a>
 
 </p>
