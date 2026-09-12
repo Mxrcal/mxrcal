@@ -16,7 +16,73 @@
   <a href="mailto:m.illescas97@gmail.com">Email</a>
 </p>
 
-$ whoami
+<table>
+<tr>
+<td width="50%" valign="top">
+
+              .-.
+             (o o)
+             | O \
+              \   \
+               `~~~'
+
+        marc@softwave
+        ─────────────
+
+        Software Developer
+        Full-Stack
+        AI & Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+marc@softwave ~ $ neofetch
+
+OS:              macOS / Windows
+Role:            Software Developer
+Location:        Barcelona, Spain
+
+Languages:
+  TypeScript
+  Java
+  Python
+  SQL
+
+Frontend:
+  Next.js
+  React
+  Tailwind CSS
+
+Backend:
+  Node.js
+  Supabase
+  PostgreSQL
+  REST APIs
+
+AI & Automation:
+  OpenAI API
+  Claude API
+  LLMs
+  AI Agents
+  n8n
+
+Infrastructure:
+  Git
+  GitHub
+  Docker
+  Vercel
+
+Currently:
+  → Building SaaS
+  → Automating businesses
+  → Exploring AI systems
+
+</td>
+</tr>
+</table>
+
+> whoami
 
 I'm a Software Developer focused on building modern web applications,
 business automation and AI-powered systems.
@@ -27,30 +93,10 @@ backend architecture to databases, APIs, deployments and automation.
 I'm also co-founder of Softwave, where I work on digital products,
 business systems and automation solutions for real-world use cases.
 
-My goal is to build software that is functional, maintainable and
-useful — from the first prototype to production.
+My goal is to build software that is functional, maintainable and useful —
+from the first prototype to production.
 
-$ system.info
-
-Role:              Software Developer
-Focus:             Full-Stack · AI · Automation · Systems
-
-Frontend:          Next.js · React · TypeScript · Tailwind CSS
-Backend:           Node.js · Supabase · PostgreSQL · REST APIs
-Languages:         TypeScript · Java · Python · SQL
-
-AI & Automation:   OpenAI API · Claude API · LLMs · AI Agents · n8n
-Infrastructure:    Git · GitHub · Docker · Vercel
-Payments:          Stripe
-
-Currently building:
-→ SaaS platforms
-→ Internal business systems
-→ AI-powered workflows
-→ Automation tools
-→ Digital products
-
-$ projects
+> projects
 
 🛒 Keiken World
 
@@ -60,7 +106,7 @@ The project goes beyond a traditional corporate website, combining
 customer-facing functionality with an architecture prepared for
 ecommerce and internal management.
 
-Features:
+Features
 
 Product catalogue
 
@@ -72,13 +118,13 @@ Ecommerce architecture
 
 Stock management
 
-Payments with Stripe
+Stripe payments
 
 Orders & shipping
 
 Internal administration
 
-Stack:
+Stack
 
 Next.js TypeScript Supabase PostgreSQL Stripe
 
@@ -90,7 +136,7 @@ hair transplant clinics.
 The project combines automated data collection with normalization,
 search, comparison and SEO-oriented architecture.
 
-Features:
+Features
 
 Automated data collection
 
@@ -106,7 +152,7 @@ SEO-oriented architecture
 
 Lead generation
 
-Stack:
+Stack
 
 Next.js TypeScript Supabase PostgreSQL
 
@@ -118,7 +164,7 @@ and applied AI.
 Through Softwave I work on digital products and internal systems
 designed to solve real business problems.
 
-Focus:
+Focus
 
 Web application development
 
@@ -134,23 +180,23 @@ CRM integrations
 
 API integrations
 
-Stack:
+Stack
 
 Next.js React TypeScript Supabase PostgreSQL
 OpenAI Claude n8n Stripe
 
-$ stack
+> stack
 
 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
 </p>
 
 Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
 </p>
 
 Supabase · SQL · REST APIs · Zod
@@ -159,17 +205,17 @@ AI & Automation
 
 OpenAI API · Claude API · LLMs · AI Agents · n8n
 
-Infrastructure & Tools
+Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
 </p>
 
 Other
 
 Java · Python · Flutter · Dart · Figma · Stripe
 
-$ currently.learning
+> currently_learning
 
 → Software architecture
 → Backend development
@@ -178,7 +224,7 @@ $ currently.learning
 → Scalable SaaS architecture
 → Production-ready systems
 
-$ philosophy
+> philosophy
 
 Build things that solve real problems.
 
@@ -187,16 +233,20 @@ Automate what should not be manual.
 Use AI where it actually adds value.
 Write software that can be maintained by someone else.
 
-$ contact
+> contact
 
 <p align="center">
-  <a href="mailto:m.illescas97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcaldev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://softwave.es">
-    <img src="https://img.shields.io/badge/Softwave-Website-informational?style=flat-square" />
-  </a>
+
+<a href="https://softwave.es">
+<img src="https://img.shields.io/badge/Softwave-Website-informational?style=flat-square" />
+</a>
+
+<a href="https://www.linkedin.com/in/marcaldev/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin" />
+</a>
+
+<a href="mailto:m.illescas97@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square" />
+</a>
+
 </p>
