@@ -1,40 +1,202 @@
-# Marc Illescas
+<h1 align="center">Marc Illescas</h1>
 
-Soy co-fundador de [Softwave.es](https://www.softwave.es) y programador full-stack con foco en infraestructura, automatización e IA aplicada.
+<p align="center">
+  <strong>Software Developer · Full-Stack · AI & Automation</strong>
+</p>
 
-Mi trabajo no se limita a escribir código: diseño sistemas completos que conectan frontend, backend, datos, automatizaciones e infraestructura para resolver problemas reales de negocio.
+<p align="center">
+  Building software, automations and digital systems for real-world problems.
+</p>
 
-Me especializo en el desarrollo de plataformas web, sistemas internos, ecommerce, backoffice y automatización de procesos mediante IA y APIs. Mi objetivo es que la tecnología no sea solo una presencia digital, sino una herramienta que ahorre tiempo, reduzca errores y mejore la operación del negocio.
+<p align="center">
+  <a href="https://softwave.es">Softwave</a>
+  ·
+  <a href="https://www.linkedin.com/in/marcaldev/">LinkedIn</a>
+  ·
+  <a href="mailto:m.illescas97@gmail.com">Email</a>
+</p>
 
----
+$ whoami
 
-### 💻 Stack Técnico & Foco en Infraestructura
+I'm a Software Developer focused on building modern web applications,
+business automation and AI-powered systems.
 
-| Área | Tecnologías | Enfoque |
-| :--- | :--- | :--- |
-| **DevOps & Sistemas** | Docker, Git, CI/CD, Vercel, Supabase | Automatización de despliegues y gestión de entornos. |
-| **Backend & Datos** | Java, Python, Node.js, SQL (PostgreSQL) | Creación de APIs robustas e integración de servicios inteligentes. |
-| **Frontend & Performance** | Next.js, Angular, TypeScript, Tailwind | Arquitecturas Type-safe y optimización extrema de carga. |
-| **IA & Automatización** | LangChain, APIs de OpenAI/Claude | Desarrollo de procesos autónomos para optimizar flujos de trabajo. |
+I enjoy working across the full stack — from frontend interfaces and
+backend architecture to databases, APIs, deployments and automation.
 
----
+I'm also co-founder of Softwave, where I work on digital products,
+business systems and automation solutions for real-world use cases.
 
-### 🏗️ Proyectos y Retos Actuales
+My goal is to build software that is functional, maintainable and
+useful — from the first prototype to production.
 
-En **Softwave**, lidero la parte técnica de proyectos donde combinamos desarrollo web, automatización, datos e infraestructura para crear productos digitales reales, no solo páginas informativas.
+$ system.info
 
-- **Keiken World:** Desarrollo de una plataforma web para una tienda TCG con catálogo, ecommerce, gestión de stock, pagos con Stripe, envíos y backoffice interno.  
-  Además de la parte pública, el sistema incluye acceso para trabajadores y clientes, gestión de clientes, pedidos, envíos y operaciones internas de la tienda.
+Role:              Software Developer
+Focus:             Full-Stack · AI · Automation · Systems
 
-- **Injertos Capilares:** Plataforma comparadora de clínicas capilares orientada a SEO, análisis de mercado y captación de leads.  
-  Incluye un sistema de recopilación, normalización y comparación de datos para evaluar clínicas por ubicación, servicios, tratamientos, precios orientativos y otros criterios relevantes.
-  
-- **Softwave Engine:** Framework propietario de desarrollo AI-first construido sobre Next.js.  
-  No es solo una plantilla: es una metodología completa con arquitectura definida, estándares de seguridad, sistema de diseño dinámico, documentación técnica, protocolo de trabajo con IA y flujo preparado para producción. Nos permite lanzar proyectos de cliente de forma más rápida, consistente y mantenible.
----
+Frontend:          Next.js · React · TypeScript · Tailwind CSS
+Backend:           Node.js · Supabase · PostgreSQL · REST APIs
+Languages:         TypeScript · Java · Python · SQL
 
-### 📫 ¿Hablamos?
+AI & Automation:   OpenAI API · Claude API · LLMs · AI Agents · n8n
+Infrastructure:    Git · GitHub · Docker · Vercel
+Payments:          Stripe
 
-- **Agencia:** [Softwave.es](https://www.softwave.es)
-- **LinkedIn:** [linkedin.com/in/marcaldev](https://www.linkedin.com/in/marcaldev)
-- **Email:** [marc.illescas@softwave.es](mailto:marc.illescas@softwave.es)
+Currently building:
+→ SaaS platforms
+→ Internal business systems
+→ AI-powered workflows
+→ Automation tools
+→ Digital products
+
+$ projects
+
+🛒 Keiken World
+
+Digital platform developed for a TCG business.
+
+The project goes beyond a traditional corporate website, combining
+customer-facing functionality with an architecture prepared for
+ecommerce and internal management.
+
+Features:
+
+Product catalogue
+
+User authentication
+
+Events & reservations
+
+Ecommerce architecture
+
+Stock management
+
+Payments with Stripe
+
+Orders & shipping
+
+Internal administration
+
+Stack:
+
+Next.js TypeScript Supabase PostgreSQL Stripe
+
+🔎 Injertos Capilares
+
+Platform focused on discovering, comparing and analyzing
+hair transplant clinics.
+
+The project combines automated data collection with normalization,
+search, comparison and SEO-oriented architecture.
+
+Features:
+
+Automated data collection
+
+Data normalization
+
+Clinic comparison
+
+Search & filtering
+
+Location-based information
+
+SEO-oriented architecture
+
+Lead generation
+
+Stack:
+
+Next.js TypeScript Supabase PostgreSQL
+
+🌊 Softwave
+
+Digital agency focused on software development, business automation
+and applied AI.
+
+Through Softwave I work on digital products and internal systems
+designed to solve real business problems.
+
+Focus:
+
+Web application development
+
+SaaS platforms
+
+Business process automation
+
+AI-powered workflows
+
+Internal tools
+
+CRM integrations
+
+API integrations
+
+Stack:
+
+Next.js React TypeScript Supabase PostgreSQL
+OpenAI Claude n8n Stripe
+
+$ stack
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
+</p>
+
+Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
+</p>
+
+Supabase · SQL · REST APIs · Zod
+
+AI & Automation
+
+OpenAI API · Claude API · LLMs · AI Agents · n8n
+
+Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+</p>
+
+Other
+
+Java · Python · Flutter · Dart · Figma · Stripe
+
+$ currently.learning
+
+→ Software architecture
+→ Backend development
+→ DevOps & infrastructure
+→ AI agents & automation
+→ Scalable SaaS architecture
+→ Production-ready systems
+
+$ philosophy
+
+Build things that solve real problems.
+
+Keep systems simple when possible.
+Automate what should not be manual.
+Use AI where it actually adds value.
+Write software that can be maintained by someone else.
+
+$ contact
+
+<p align="center">
+  <a href="mailto:m.illescas97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcaldev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://softwave.es">
+    <img src="https://img.shields.io/badge/Softwave-Website-informational?style=flat-square" />
+  </a>
+</p>
