@@ -38,7 +38,7 @@
 
 <td width="55%" valign="top">
 
-marc@softwave ~ $ neofetch
+m.illescas97@gmail.com ~ $ neofetch
 
 SO:               macOS / Windows
 Rol:              Software Developer
