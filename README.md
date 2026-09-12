@@ -22,12 +22,12 @@
 
         ███╗   ███╗ █████╗ ██████╗  ██████╗
         ████╗ ████║██╔══██╗██╔══██╗██╔
-        ██╔████╔██║███████║██████╔╝██║   
-        ██║╚██╔╝██║██╔══██║██╔══██╗██║   
+        ██╔████╔██║███████║██████╔╝██║ 
+        ██║╚██╔╝██║██╔══██║██╔══██╗██║ 
         ██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗
         ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 
-              m.illescas97@gmail.com
+              marc@softwave
               ─────────────
 
            Software Developer
@@ -65,8 +65,8 @@ Pagos:
   Stripe
 
 Actualmente:
-  → Construyendo SaaS
-  → Automatizando negocios
+  → Construyendo aplicaciones SaaS
+  → Automatizando procesos
   → Explorando sistemas con IA
 
 </td>
@@ -87,8 +87,9 @@ También soy cofundador de Softwave, donde trabajo en productos
 digitales, sistemas internos y soluciones de automatización para
 casos de uso reales.
 
-Mi objetivo es construir software funcional, mantenible y útil,
-desde el primer prototipo hasta producción.
+Actualmente busco una oportunidad profesional como Software Developer
+donde pueda seguir creciendo técnicamente y aportar la experiencia
+práctica adquirida desarrollando proyectos reales.
 
 > proyectos
 
@@ -96,9 +97,8 @@ desde el primer prototipo hasta producción.
 
 Plataforma digital desarrollada para un negocio especializado en TCG.
 
-El proyecto va más allá de una web corporativa tradicional, combinando
-funcionalidades para clientes con una arquitectura preparada para
-ecommerce y gestión interna.
+El proyecto combina funcionalidades para clientes con una arquitectura
+preparada para ecommerce y gestión interna.
 
 Funcionalidades
 
@@ -127,7 +127,7 @@ Next.js TypeScript Supabase PostgreSQL Stripe
 Plataforma orientada a descubrir, comparar y analizar
 clínicas de trasplante capilar.
 
-El proyecto combina recopilación automatizada de datos con
+El proyecto combina recopilación automatizada de datos,
 normalización, búsqueda, comparación y una arquitectura orientada a SEO.
 
 Funcionalidades
@@ -152,11 +152,11 @@ Next.js TypeScript Supabase PostgreSQL
 
 🌊 Softwave
 
-Agencia digital centrada en desarrollo de software, automatización
-de procesos empresariales e Inteligencia Artificial aplicada.
+Proyecto empresarial centrado en desarrollo de software,
+automatización de procesos e Inteligencia Artificial aplicada.
 
-A través de Softwave trabajo en productos digitales y sistemas internos
-diseñados para resolver problemas reales de negocio.
+Trabajo en el desarrollo de productos digitales y sistemas internos
+orientados a resolver problemas reales de negocio.
 
 Áreas
 
