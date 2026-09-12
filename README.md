@@ -18,24 +18,25 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-              .-.
-             (o o)
-             | O \
-              \   \
-               `~~~'
+        ███╗   ███╗ █████╗ ██████╗  ██████╗
+        ████╗ ████║██╔══██╗██╔══██╗██╔═══██╗
+        ██╔████╔██║███████║██████╔╝██║   ██║
+        ██║╚██╔╝██║██╔══██║██╔══██╗██║   ██║
+        ██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╔╝
+        ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 
-        m.illescas97@gmail.com
-        ─────────────
+              marc@softwave
+              ─────────────
 
-        Software Developer
-        Full-Stack
-        IA & Automatización
+           Software Developer
+             Full-Stack
+          IA & Automatización
 
 </td>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 marc@softwave ~ $ neofetch
 
@@ -44,34 +45,24 @@ Rol:              Software Developer
 Ubicación:        Barcelona, España
 
 Lenguajes:
-  TypeScript
-  Java
-  Python
-  SQL
+  TypeScript · Java · Python · SQL
 
 Frontend:
-  Next.js
-  React
-  Tailwind CSS
+  Next.js · React · Tailwind CSS
 
 Backend:
-  Node.js
-  Supabase
-  PostgreSQL
-  REST APIs
+  Node.js · Supabase · PostgreSQL
+  REST APIs · Zod
 
 IA & Automatización:
-  OpenAI API
-  Claude API
-  LLMs
-  Agentes de IA
-  n8n
+  OpenAI API · Claude API
+  LLMs · Agentes de IA · n8n
 
 Infraestructura:
-  Git
-  GitHub
-  Docker
-  Vercel
+  Git · GitHub · Docker · Vercel
+
+Pagos:
+  Stripe
 
 Actualmente:
   → Construyendo SaaS
@@ -193,13 +184,13 @@ OpenAI Claude n8n Stripe
 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
 </p>
 
 Backend y datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
 </p>
 
 Supabase · SQL · REST APIs · Zod
@@ -211,14 +202,14 @@ OpenAI API · Claude API · LLMs · Agentes de IA · n8n
 Infraestructura
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
 </p>
 
 Otros
 
 Java · Python · Flutter · Dart · Figma · Stripe
 
-> aprendiendo actualmente
+> actualmente aprendiendo
 
 → Arquitectura de software
 → Desarrollo backend
@@ -241,15 +232,15 @@ Escribir software que otra persona pueda mantener.
 <p align="center">
 
 <a href="https://softwave.es">
-<img src="https://img.shields.io/badge/Softwave-Web-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Softwave-Web-informational?style=flat-square" />
 </a>
 
 <a href="https://www.linkedin.com/in/marcaldev/">
-<img src="https://img.shields.io/badge/LinkedIn-Contactar-informational?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Contactar-informational?style=flat-square&logo=linkedin" />
 </a>
 
 <a href="mailto:m.illescas97@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contactar-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Email-Contactar-informational?style=flat-square" />
 </a>
 
 </p>
